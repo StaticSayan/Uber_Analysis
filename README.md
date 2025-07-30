@@ -29,6 +29,6 @@ category.
 * Summarized major findings around demand trends, service failures, and trip patterns.
 *  Provided data-driven recommendations to optimize driver availability, reduce
 cancellations, and improve operational efficiency.
-This structured analysis not only reveals core inefficiencies in Uber’s current ride request
+* This structured analysis not only reveals core inefficiencies in Uber’s current ride request
 system but also provides actionable insights to enhance reliability and customer satisfaction
 using data science techniques.
